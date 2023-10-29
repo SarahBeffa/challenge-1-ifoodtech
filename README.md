@@ -1,4 +1,4 @@
-# challenge-1-ifoodtech
+# challenge-dio-ifoodtech
 Primeiro desafio do bootcamp ifood tech da DIO
 
 # 1️⃣ Desafio Classificador de nível de Herói
